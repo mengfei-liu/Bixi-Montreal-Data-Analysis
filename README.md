@@ -1,4 +1,5 @@
-# BIXI Montréal, bike-sharing system (Data Analysis and Data Visualization)
+# BIXI Montréal, bike-sharing system 
+## Data Analysis and Data Visualization
 
 ---
 
@@ -6,8 +7,8 @@
 
 - Data Visualization and Dashboards on Tableau with key insights into revenue and business growth.
 
-![Percentage of trips 2016&2017](/image--001.jpg)
+![](https://github.com/mengfei-liu/Bixi-Montreal-Data-Analysis/images/image--001.jpg)
 
-![Dashboard](/image--011.jpg)
+![](https://github.com/mengfei-liu/Bixi-Montreal-Data-Analysis/images/image--011.jpg)
 
-![Map](/image--007.jpg)
+![](https://github.com/mengfei-liu/Bixi-Montreal-Data-Analysis/images/image--00.jpg)
