@@ -1,8 +1,4 @@
----
-typora-root-url: images
----
-
-## BIXI Montréal, bike-sharing system (Data Analysis and Data Visualization)
+# BIXI Montréal, bike-sharing system (Data Analysis and Data Visualization)
 
 ---
 
@@ -10,7 +6,7 @@ typora-root-url: images
 
 - Data Visualization and Dashboards on Tableau with key insights into revenue and business growth.
 
-  ![Percentage of trips 2016&2017](/image--001.jpg)
+![Percentage of trips 2016&2017](/image--001.jpg)
 
 ![Dashboard](/image--011.jpg)
 
