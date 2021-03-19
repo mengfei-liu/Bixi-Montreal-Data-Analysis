@@ -1,5 +1,7 @@
 # BIXI Montréal, bike-sharing system (Data Analysis and Data Visualization)
 
+![image](./images/bixi-montreal-main.jpg)
+
 ---
 
 - Data Analysis of the real-world data using SQL queries on MySQL workbench.
@@ -11,3 +13,4 @@
 ![image](./images/image--011.jpg)
 
 ![image](./images/image--007.jpg)
+
