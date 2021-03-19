@@ -4,8 +4,9 @@
 
 ---
 
-- Data Analysis of the real-world data using SQL queries on MySQL workbench.
+## This project were delivered as assignment for BrainStation's Data Science Diploma program and cannot be shared publicly.
 
+- Data Analysis of the real-world data using SQL queries on MySQL workbench.
 - Data Visualization and Dashboards on Tableau with key insights into revenue and business growth.
 
 ![image](./images/image--001.jpg)
